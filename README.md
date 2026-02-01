@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://share.google/VWY6mVSafWgOHuwP8" width="100%" />
   # 👾 Code, Create, Race.
 
   **CS Student | Game Dev Hobbyist | Sim Racing Fan**
@@ -29,4 +29,6 @@
 
 <div align="center">
   <a href="mailto:your-email@example.com">Email Me</a> • <a href="https://www.linkedin.com/in/butaya-kent-vincent-b-032959355">LinkedIn</a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=aguynamedkent7&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </div>
