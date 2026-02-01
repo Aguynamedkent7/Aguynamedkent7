@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://share.google/VWY6mVSafWgOHuwP8" width="100%" />
+
   # 👾 Code, Create, Race.
 
   **CS Student | Game Dev Hobbyist | Sim Racing Fan**
