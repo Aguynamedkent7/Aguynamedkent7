@@ -14,21 +14,37 @@
 
 ### 🛠️ Tech Stack
 * **Frontend:** `React` `Next.js` `Tailwind`
-* **Backend:** `Supabase` `Mysql`
-* **Game Dev:** `Godot Engine` `Java(fabric)`
+* **Mobile:** `Kotlin` `Jetpack Compose`
+* **Backend:** `Supabase` `MySQL`
+* **Game Dev:** `Godot Engine` `Java (Fabric)`
 * **Machine Learning:** `Python` `OpenCV` `Reinforcement Learning`
 
 ### 🚧 What I'm Working On
-* 🕸️ **Web Apps:** Developing the **JRJC Car Rental** system.
+* 🚍 **Jeepney Tracker:** Developing a real-time public transport tracking system for Cagayan de Oro using IoT hardware and a mobile interface.
+* 💬 **Deezcord:** Building a Discord-style real-time messaging web app. 
+* 🕸️ **Web Apps:** Continuing development on the **JRJC Car Rental** system.
 * 🖥️ **Portfolio:** Creating a personal site to showcase my visuals.
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aguynamedkent7&layout=compact&theme=radical&hide_border=true)
+### ⚙️ The Factory Must Grow (Automation & Logistics)
 
 <div align="center">
+  <!-- Contribution graph tinted with Factorio Copper/Orange -->
+  <img src="https://ghchart.rshah.org/E68222/aguynamedkent7" alt="Kent's Contribution Factory" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Stats with a dark industrial theme and copper accents -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aguynamedkent7&show_icons=true&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="Production Stats" />
+</div>
+
+<div align="center">
+  <br>
   <a href="mailto:your-email@example.com">Email Me</a> • <a href="https://www.linkedin.com/in/butaya-kent-vincent-b-032959355">LinkedIn</a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=aguynamedkent7&style=flat-square&color=blueviolet" alt="Visitor Count" />
+  <!-- Visitor badge tinted to match the theme -->
+  <img src="https://komarev.com/ghpvc/?username=aguynamedkent7&style=flat-square&color=E68222&label=FACTORY+INSPECTORS" alt="Visitor Count" />
 </div>
