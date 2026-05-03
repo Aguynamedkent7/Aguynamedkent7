@@ -25,7 +25,6 @@
 
 ---
 
-### ⚙️ The Factory Must Grow (Automation & Logistics)
 
 <div align="center">
   <!-- Contribution graph tinted with Factorio Copper/Orange -->
@@ -41,7 +40,7 @@
 
 <div align="center">
   <br>
-  <a href="mailto:your-email@example.com">Email Me</a> • <a href="https://www.linkedin.com/in/butaya-kent-vincent-b-032959355">LinkedIn</a>
+  <a href="mailto:your-butaya.kentvincent07@gmail.com">Email Me</a> • <a href="https://www.linkedin.com/in/butaya-kent-vincent-b-032959355">LinkedIn</a>
   <br><br>
   <!-- Visitor badge tinted to match the theme -->
   <img src="https://komarev.com/ghpvc/?username=aguynamedkent7&style=flat-square&color=E68222&label=FACTORY+INSPECTORS" alt="Visitor Count" />
