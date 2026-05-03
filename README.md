@@ -22,8 +22,6 @@
 ### 🚧 What I'm Working On
 * 🚍 **Jeepney Tracker:** Developing a real-time public transport tracking system for Cagayan de Oro using IoT hardware and a mobile interface.
 * 💬 **Deezcord:** Building a Discord-style real-time messaging web app. 
-* 🕸️ **Web Apps:** Continuing development on the **JRJC Car Rental** system.
-* 🖥️ **Portfolio:** Creating a personal site to showcase my visuals.
 
 ---
 
