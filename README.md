@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E68222&height=180&section=header&text=Code,%20Create,%20Race.&fontColor=1a1a1a&fontSize=48&animation=fadeIn" alt="Code, Create, Race." />
 
-  **CS Student | Game Dev Hobbyist | Sim Racing Fan**
+  **CS Student | Software Engineer | Sim Racing Fan**
 
   Based in the Philippines
 
