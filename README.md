@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E68222&height=180&section=header&text=Code,%20Create,%20Race.&fontColor=1a1a1a&fontSize=48&animation=fadeIn" alt="Code, Create, Race." />
-
-  **CS Student | Software Engineer | Sim Racing Fan**
+  <img src="assets/banner.svg" width="100%" alt="Code, Create, Race. CS Student | Software Engineer | Sim Racing Fan" />
 
   Based in the Philippines
 
@@ -18,7 +16,7 @@
 
 </div>
 
-### Tech Stack
+### Research Completed
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,react,svelte,tailwind,kotlin,androidstudio,python,fastapi,supabase,postgres,docker,prisma,godot,java,linux&theme=dark&perline=8" alt="Tech stack icons" />
@@ -30,9 +28,9 @@
 * **Game Dev & Modding:** `Godot Engine (GDScript)` `Java (Fabric)`
 * **Systems & Automation:** `WebSockets` `IoT Telemetry` `Linux Daemons`
 
----
+<p align="center"><img src="assets/belt.svg" width="100%" alt="" /></p>
 
-### What I'm Currently Building
+### Under Construction
 
 <p align="center">
   <a href="https://github.com/Aguynamedkent7/KAOW"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aguynamedkent7&repo=KAOW&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="KAOW" /></a>
@@ -40,9 +38,9 @@
 
 * **Karsayo:** A modern multi-tenant car rental platform for SMEs featuring branded operator subdomains, a 6-hour inventory hold engine, valid ID verification, and atomic booking RPCs.
 
----
+<p align="center"><img src="assets/belt.svg" width="100%" alt="" /></p>
 
-### Shipped & Featured Projects
+### Production Output
 
 <p align="center">
   <a href="https://github.com/Aguynamedkent7/ByaHero"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aguynamedkent7&repo=ByaHero&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="ByaHero" /></a>
@@ -57,7 +55,7 @@
 * **Veent WiFi Captive Portal:** A SvelteKit monorepo powering captive customer portals, staff radius administration, and interactive AP coverage maps backed by PostgreSQL & Drizzle.
 * **Deezcord & Minecraft Ecosystem:** Real-time Discord-style messaging web app paired with server infrastructure and custom Fabric mods (cards above).
 
----
+<p align="center"><img src="assets/belt.svg" width="100%" alt="" /></p>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/E68222/aguynamedkent7" alt="Kent's Contribution Factory" />
@@ -77,5 +75,5 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=aguynamedkent7&style=flat-square&color=E68222&label=FACTORY+INSPECTORS" alt="Visitor Count" />
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E68222&height=100&section=footer" alt="" />
+  <img src="assets/belt.svg" width="100%" alt="" />
 </div>
