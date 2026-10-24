@@ -10,6 +10,8 @@
 
   <img src="cat.gif" width="260" alt="Cat at the computer" />
 
+  **Open to internships, freelance work, and collaborations.**
+
   ---
 
   **Building high-performance systems — from autonomous AI daemons and multi-tenant platforms to IoT trackers and Minecraft mods.**
@@ -32,17 +34,28 @@
 
 ### What I'm Currently Building
 
-* **[KAOW (Kent's AI Officiated Workflow)](https://github.com/Aguynamedkent7/KAOW):** A headless PC automation workstation daemon that wraps AI CLIs (Claude, OpenDevin, Antigravity) and is controlled remotely from an Android app via WebSockets and Supabase relay.
+<p align="center">
+  <a href="https://github.com/Aguynamedkent7/KAOW"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aguynamedkent7&repo=KAOW&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="KAOW" /></a>
+</p>
+
 * **Karsayo:** A modern multi-tenant car rental platform for SMEs featuring branded operator subdomains, a 6-hour inventory hold engine, valid ID verification, and atomic booking RPCs.
 
 ---
 
 ### Shipped & Featured Projects
 
-* **[ByaHero](https://github.com/Aguynamedkent7/ByaHero) (Jeepney Tracker):** Real-time public transit tracking system for Cagayan de Oro commuters and drivers using IoT telemetry and a Kotlin Jetpack Compose app.
+<p align="center">
+  <a href="https://github.com/Aguynamedkent7/ByaHero"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aguynamedkent7&repo=ByaHero&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="ByaHero" /></a>
+  <a href="https://github.com/Aguynamedkent7/SleepIN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aguynamedkent7&repo=SleepIN&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="SleepIN" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Aguynamedkent7/AutoBackupMod"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aguynamedkent7&repo=AutoBackupMod&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="AutoBackupMod" /></a>
+  <a href="https://github.com/Aguynamedkent7/WordLeaderboards-mod"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aguynamedkent7&repo=WordLeaderboards-mod&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="WordLeaderboards-mod" /></a>
+</p>
+
+* **[SleepIN_PC](https://github.com/Aguynamedkent7/SleepIN_PC):** Linux desktop companion to SleepIN for automated class attendance.
 * **Veent WiFi Captive Portal:** A SvelteKit monorepo powering captive customer portals, staff radius administration, and interactive AP coverage maps backed by PostgreSQL & Drizzle.
-* **Deezcord & Minecraft Ecosystem:** Real-time Discord-style messaging web app paired with server infrastructure and custom Fabric mods ([AutoBackupMod](https://github.com/Aguynamedkent7/AutoBackupMod), [WordLeaderboards](https://github.com/Aguynamedkent7/WordLeaderboards-mod)).
-* **[SleepIN](https://github.com/Aguynamedkent7/SleepIN) / [SleepIN_PC](https://github.com/Aguynamedkent7/SleepIN_PC):** Automated class attendance tool for Android and Linux desktop.
+* **Deezcord & Minecraft Ecosystem:** Real-time Discord-style messaging web app paired with server infrastructure and custom Fabric mods (cards above).
 
 ---
 
