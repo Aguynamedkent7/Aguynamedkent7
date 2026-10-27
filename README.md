@@ -2,9 +2,9 @@
 
   <img src="assets/banner.svg?v=2" width="100%" alt="Code, Create, Race. CS Student | Software Engineer | Sim Racing Fan" />
 
-  Based in the Philippines
+  <h3>Based in the Philippines</h3>
 
-  <img src="assets/words.svg" height="250" alt="Autonomous AI daemons, multi-tenant platforms, IoT trackers, Minecraft mods" />
+  <img src="assets/words.svg?v=2" height="250" alt="Autonomous AI daemons, multi-tenant platforms, IoT trackers, Minecraft mods" />
   <img src="cat.gif" width="260" alt="Cat at the computer" />
 
   **Open to internships, freelance work, and collaborations.**
