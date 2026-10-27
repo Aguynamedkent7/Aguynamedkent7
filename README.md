@@ -4,8 +4,7 @@
 
   Based in the Philippines
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E68222&center=true&vCenter=true&width=600&lines=Autonomous+AI+daemons;Multi-tenant+platforms;IoT+trackers;Minecraft+mods" alt="Typing SVG" />
-
+  <img src="assets/words.svg" height="250" alt="Autonomous AI daemons, multi-tenant platforms, IoT trackers, Minecraft mods" />
   <img src="cat.gif" width="260" alt="Cat at the computer" />
 
   **Open to internships, freelance work, and collaborations.**
