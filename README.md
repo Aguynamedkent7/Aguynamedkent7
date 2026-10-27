@@ -12,7 +12,7 @@
 
   ---
 
-  **Building high-performance systems — from autonomous AI daemons and multi-tenant platforms to IoT trackers and Minecraft mods.**
+  **Building high-performance systems, from autonomous AI daemons and multi-tenant platforms to IoT trackers and Minecraft mods.**
 
 </div>
 
