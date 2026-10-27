@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.svg" width="100%" alt="Code, Create, Race. CS Student | Software Engineer | Sim Racing Fan" />
+  <img src="assets/banner.svg?v=2" width="100%" alt="Code, Create, Race. CS Student | Software Engineer | Sim Racing Fan" />
 
   Based in the Philippines
 
@@ -28,7 +28,7 @@
 * **Game Dev & Modding:** `Godot Engine (GDScript)` `Java (Fabric)`
 * **Systems & Automation:** `WebSockets` `IoT Telemetry` `Linux Daemons`
 
-<p align="center"><img src="assets/belt.svg" width="100%" alt="" /></p>
+<p align="center"><img src="assets/belt.svg?v=2" width="100%" alt="" /></p>
 
 ### Under Construction
 
@@ -38,7 +38,7 @@
 
 * **Karsayo:** A modern multi-tenant car rental platform for SMEs featuring branded operator subdomains, a 6-hour inventory hold engine, valid ID verification, and atomic booking RPCs.
 
-<p align="center"><img src="assets/belt.svg" width="100%" alt="" /></p>
+<p align="center"><img src="assets/belt.svg?v=2" width="100%" alt="" /></p>
 
 ### Production Output
 
@@ -55,7 +55,7 @@
 * **Veent WiFi Captive Portal:** A SvelteKit monorepo powering captive customer portals, staff radius administration, and interactive AP coverage maps backed by PostgreSQL & Drizzle.
 * **Deezcord & Minecraft Ecosystem:** Real-time Discord-style messaging web app paired with server infrastructure and custom Fabric mods (cards above).
 
-<p align="center"><img src="assets/belt.svg" width="100%" alt="" /></p>
+<p align="center"><img src="assets/belt.svg?v=2" width="100%" alt="" /></p>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/E68222/aguynamedkent7" alt="Kent's Contribution Factory" />
@@ -76,5 +76,5 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=aguynamedkent7&style=flat-square&color=E68222&label=FACTORY+INSPECTORS" alt="Visitor Count" />
   <br><br>
-  <img src="assets/belt.svg" width="100%" alt="" />
+  <img src="assets/belt.svg?v=2" width="100%" alt="" />
 </div>
