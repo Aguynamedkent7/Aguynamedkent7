@@ -65,6 +65,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aguynamedkent7&show_icons=true&theme=omni&title_color=E68222&text_color=c4c4c4&icon_color=E68222&bg_color=1a1a1a&hide_border=true" alt="Production Stats" />
+  <img src="assets/engineer.svg" height="195" alt="Engineer riding a 4-belt loop" />
 </div>
 
 <div align="center">
